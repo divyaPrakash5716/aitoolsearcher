@@ -138,4 +138,4 @@ def main():
                 st.markdown(f"<div class='tool'><b>Categories:</b> {tool[2]}</div>", unsafe_allow_html=True)
                 st.markdown(f"<div class='tool'><b>Per Month:</b> {tool[3]}</div>", unsafe_allow_html=True)
                 st.markdown(f"<div class='tool'><b>Types For Use:</b> {tool[4]}</div>", unsafe_allow_html=True)
-                st.markdown("<hr
+                 
